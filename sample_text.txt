@@ -1,2 +1,1 @@
-
-Python is a high-level, interpreted programming language known for its simplicity and readability. Here are some key aspects of Python:
+Hello world I am trying to learn python 

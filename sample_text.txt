@@ -1,1 +1,2 @@
-Hello world I am trying to learn python 
+Hello World
+I am a full stack developer who has strong experience in various skills

@@ -3,6 +3,8 @@ from tkinter import ttk
 from tkinter import scrolledtext
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
+
+
 class NovelGeneratorApp(tk.Tk):
     def __init__(self):
         super().__init__()
